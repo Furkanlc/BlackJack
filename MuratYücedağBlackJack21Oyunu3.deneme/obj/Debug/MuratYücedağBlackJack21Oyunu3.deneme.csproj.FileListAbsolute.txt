@@ -1,0 +1,14 @@
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\bin\Debug\MuratYücedağBlackJack21Oyunu3.deneme.exe.config
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\bin\Debug\MuratYücedağBlackJack21Oyunu3.deneme.exe
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\bin\Debug\MuratYücedağBlackJack21Oyunu3.deneme.pdb
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.csprojResolveAssemblyReference.cache
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.Form1.resources
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.Properties.Resources.resources
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.csproj.GenerateResource.Cache
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.exe
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.pdb
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\bin\Debug\Interop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\Interop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mostar\documents\visual studio 2013\Projects\MuratYücedağBlackJack21Oyunu3.deneme\MuratYücedağBlackJack21Oyunu3.deneme\obj\Debug\MuratYücedağBlackJack21Oyunu3.deneme.csproj.ResolveComReference.cache
